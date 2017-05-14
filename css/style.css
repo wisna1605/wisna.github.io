@@ -28,7 +28,7 @@
 	font-style: normal;
 	font-size: 20px;
 	font-size: bold;
-	background-color: coral;
+	background-color: white;
 	text-align: justify;
 	height:8%;
 	float:right;
@@ -62,12 +62,19 @@
     font-size: 12pt;
 }
 
-
-a:hover{
-	
-	font-family: fantasy;
-	
+.a-sidebar{
+    display: block;
+    padding: 10px;
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
 }
+
+.li-sidebar .a-sidebar:hover {
+    background-color: bisque;
+    color: darkred;
+
+
 
 #div-footer{
     width: 100%;
