@@ -1,3 +1,9 @@
+.row{ 
+list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
 
 
 
@@ -10,7 +16,58 @@
 
 
 
+
+
+
+
+
+#ul-sidebar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.li-sidebar{
+    display: inline;
+    float: none;
+    font-family: fantasy;
+    font-size: 12pt;
+}
+
+.a-sidebar{
+    display: block;
+    padding: 10px;
+    background-color:#5d5d3c;
+    color: darkgoldenrod;
+    text-decoration: none;
+}
+
+
+
+
+
+.li-sidebar .a-sidebar:hover {
+    background-color:white;
+    color: darkgoldenrod;
+}
+
+
+
 #img-sidebar-ads{
     width: 200px;
-    height: 400px;
+    height: 200px;
 }
+
+
+
+
+
+#td-footer-content{
+	display: block;
+    padding: 20px;
+    background-color:#f2f2f2;
+    color: black;
+	font-family:italic;
+    text-decoration: none;
+}
+
