@@ -7,6 +7,10 @@ list-style-type: none;
 
 
 
+
+
+
+
 #img-content-ads{
     width: 200px;
     height: 400px;
@@ -30,15 +34,15 @@ list-style-type: none;
 .li-sidebar{
     display: inline;
     float: none;
-    font-family: fantasy;
+    font-family:fantasy;
     font-size: 12pt;
 }
 
 .a-sidebar{
     display: block;
     padding: 10px;
-    background-color:#5d5d3c;
-    color: darkgoldenrod;
+    background-color:#999966;
+    color:gold ;
     text-decoration: none;
 }
 
@@ -47,8 +51,8 @@ list-style-type: none;
 
 
 .li-sidebar .a-sidebar:hover {
-    background-color:white;
-    color: darkgoldenrod;
+    background-color:#f2f2f2;
+    color:saddlebrown;
 }
 
 
@@ -66,8 +70,8 @@ list-style-type: none;
 	display: block;
     padding: 20px;
     background-color:#f2f2f2;
-    color: black;
-	font-family:italic;
+    color: saddlebrown;
+	font-family:inherit;
     text-decoration: none;
 }
 
