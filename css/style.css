@@ -62,26 +62,32 @@ col-xs-2{
 }
 
 .div-content-title{
-	font-family: sans-serif;
-    font-size: 15pt;
+    font-family: sans-serif;
+	color:#666666;
+    font-size:13pt;
     font-weight: bold;
 	
+	
 }
-.div-content-title{
-    font-family: sans-serif;
-    font-size: 15pt;
-    font-weight: bold;
-}
+
+
+
 
 .div-content-brief{
     font-family: sans-serif;
+	color:#666666;
     font-size: 13pt;
     font-weight: normal;
     text-align: justify;
 }
 
-
-
+.div-content-firstpg{
+	font-family: sans-serif;
+	color:#666666;
+    font-size: 13pt;
+    font-weight: normal;
+    text-align: justify;
+}
 
 .li-sidebar .a-sidebar:hover {
     background-color:#f2f2f2;
@@ -101,6 +107,11 @@ col-xs-2{
     height: 200px;
 }
 
+#img-format-order{
+	width: 500px;
+    height: 400px;
+}
+
 
 
 
@@ -112,12 +123,17 @@ col-xs-2{
 	font-family:inherit;
     text-decoration: none;
 }
-#img-testy{
-	height:100;
-	width:100;
+.img-testy{
+	height:350;
+	width:300;
+	margin-top:auto;
+	padding-top: 10;
 }
 
-
+#img-sidebar-vans{
+	width: 150px;
+    height: 150px;
+}
 
 
 
