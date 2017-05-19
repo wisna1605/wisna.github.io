@@ -67,9 +67,17 @@ col-xs-2{
     font-size:13pt;
     font-weight: bold;
 	
-	
 }
 
+.div-content-pemb{
+	display: block;
+    padding: 20px;
+    background-color:lightgoldenrodyellow;
+    color: black;
+	font-family:inherit;
+    text-decoration: none;
+	margin: 20;
+}
 
 
 
@@ -81,13 +89,24 @@ col-xs-2{
     text-align: justify;
 }
 
-.div-content-firstpg{
+.div-content-index1{
 	font-family: sans-serif;
 	color:#666666;
     font-size: 13pt;
-    font-weight: normal;
-    text-align: justify;
+	
 }
+.div-content-judul{
+	font-family:serif;
+	color:black;
+    font-size: 19pt;
+	padding:3px;
+	display: block;
+	background-color:#c2c2a3;
+	margin-top:10;
+	
+	
+}
+	
 
 .li-sidebar .a-sidebar:hover {
     background-color:#f2f2f2;
@@ -112,16 +131,20 @@ col-xs-2{
     height: 400px;
 }
 
+#img-wisna{
+	width: 200px;
+    height: 250px
+}
 
 
 
 #td-footer-content{
-	display: block;
-    padding: 10px;
+	padding: 10px;
     background-color:#f2f2f2;
     color: black;
 	font-family:inherit;
     text-decoration: none;
+	
 }
 .img-testy{
 	height:350;
@@ -145,104 +168,12 @@ col-xs-2{
 
 
 
-.height-full{
-    height: 100%;
-}
-
-.height-half{
-    height: 50%;
-}
-
-.height-header{
-    height: 20%;
-}
-
-.height-body{
-    height: 75%;
-}
-
-.height-footer{
-    height: 5%
-}
-
-.align-center{
-    text-align: center;
-}
-
-.align-right{
-    text-align: right;
-}
-
-.text-red{
-    color: black;
-}
-
-.lightgrey{
-    background-color: lightgrey;
-}
-
-
-
-.whitesmoke{
-    background-color: whitesmoke;
-}
-
-.white{
-    background-color: white;
-}
-
-.border-soft{
-    border-style: outset;
-}
-
-.font-small{
-    font-size: 8pt;
-}
-
-.footer-middle{
-    padding: 8px;
-}
-
-.header-middle{
-    padding: 10px;
-}
-
-.content-padding{
-    padding: 15px;
-}
-
-.sub-content-padding{
-    padding: 50px;
-}
-
-.header1{
-    font-size: 18pt;
-    font-weight: bold;
-}
-
-.menu-sidebar{
-    font-family: fantasy;
-    font-size: 10pt;
-    text-align: center;
-    border-style: outset;
-}
-
-
-
-
-
-.video-menu1{
-    padding-left: 10pt;
-}
-
-.table-1{
-    font-size: 10pt;
-    text-align: center;
-}
-
 
 
 .image-content{
     width: 320px;
     height: 200px;
+}
+#td-footer{
+	background-color: #f2f2f2;
 }
