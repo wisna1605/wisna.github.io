@@ -6,6 +6,10 @@
 	height:75%;
 	font-size: 17pt;
 }
+
+
+
+
 .row{ 
 list-style-type: none;
     margin: 0;
@@ -28,6 +32,7 @@ col-xs-2{
     color:saddlebrown;
     text-decoration: none;
 }
+
 
 .col-xs-2 .a-nav:hover{
 	background-color:#666666;
@@ -75,6 +80,8 @@ col-xs-2{
 	
 }
 
+
+
 .div-content-pemb{
 	font-family:serif;
 	color:black;
@@ -88,6 +95,9 @@ col-xs-2{
     text-decoration: none;
 	margin: 20;
 }
+
+
+
 .div-content-brief{
     font-family: sans-serif;
 	color:#666666;
@@ -100,8 +110,9 @@ col-xs-2{
 	font-family: sans-serif;
 	color:#666666;
     font-size: 13pt;
+	
+	
 }
-
 .div-content-judul{
 	font-family:serif;
 	color:black;
@@ -111,9 +122,9 @@ col-xs-2{
 	background-color:#c2c2a3;
 	margin-top:10;
 	font-weight: bold;
+	
+	
 }
-
-
 .div-content-judul1{
 	font-family:serif;
 	color:black;
@@ -122,6 +133,8 @@ col-xs-2{
 	display: block;
 	
 	font-weight: bold;
+	
+	
 }
 	
 
@@ -179,75 +192,22 @@ col-xs-2{
     height: 150px;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
 .image-content{
     width: 320px;
     height: 200px;
 }
 #td-footer{
 	background-color: #f2f2f2;
-}
-
-
-
-
-
-
-
-
-.height-full{
-    height: 100%;
-}
-
-.height-half{
-    height: 50%;
-}
-
-
-
-
-.align-center{
-    text-align: center;
-}
-
-.align-right{
-    text-align: right;
-}
-
-
-.border-soft{
-    border-style:inset;
-}
-
-.font-small{
-    font-size: 8pt;
-}
-
-.footer-middle{
-    padding: 8px;
-}
-
-.header-middle{
-    padding: 10px;
-}
-
-
-
-.sub-content-padding{
-    padding: 50px;
-}
-
-
-.table-1{
-    font-size: 10pt;
-    text-align: center;
-}
-
-.column-header{
-    font-weight: bold;
-    background-color: goldenrod;
-}
-
-.image-content{
-    width: 320px;
-    height: 200px;
 }
