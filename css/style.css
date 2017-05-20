@@ -65,16 +65,33 @@ col-xs-2{
     font-family: sans-serif;
 	color:#666666;
     font-size:13pt;
-    font-weight: bold;
+   
+	
+}
+.div-content-promo{
+	font-family:serif;
+	color:black;
+    font-size: 25pt;
+	padding:20px;
+	display: block;
+	background-color:#f2f2f2;
+	margin-top:30;
+	font-weight: bold;
 	
 }
 
+
+
 .div-content-pemb{
+	font-family:serif;
+	color:black;
+    font-size: 13pt;
+	padding:20px;
 	display: block;
-    padding: 20px;
-    background-color:lightgoldenrodyellow;
-    color: black;
-	font-family:inherit;
+	background-color:#f2f2f2;
+	margin-top:30;
+	font-weight: bold;
+	
     text-decoration: none;
 	margin: 20;
 }
@@ -94,15 +111,28 @@ col-xs-2{
 	color:#666666;
     font-size: 13pt;
 	
+	
 }
 .div-content-judul{
 	font-family:serif;
 	color:black;
-    font-size: 19pt;
+    font-size: 15pt;
 	padding:3px;
 	display: block;
 	background-color:#c2c2a3;
 	margin-top:10;
+	font-weight: bold;
+	
+	
+}
+.div-content-judul1{
+	font-family:serif;
+	color:black;
+    font-size: 18pt;
+	padding:3px;
+	display: block;
+	
+	font-weight: bold;
 	
 	
 }
@@ -151,6 +181,10 @@ col-xs-2{
 	width:300;
 	margin-top:auto;
 	padding-top: 10;
+}
+#img-testimony{
+	height:200px;
+	width:1050px;
 }
 
 #img-sidebar-vans{
