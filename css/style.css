@@ -119,7 +119,6 @@ col-xs-2{
     font-size: 18pt;
 	padding:3px;
 	display: block;
-	
 	font-weight: bold;
 }
 	
@@ -129,12 +128,10 @@ col-xs-2{
     color:saddlebrown;
 }
 
-
-
 #img-sidebar-ads{
     width: 200px;
     height: 200px;
-	text-decoration: none;
+	
 }
 
 .img-about{
@@ -151,8 +148,6 @@ col-xs-2{
 	width: 200px;
     height: 250px
 }
-
-
 
 #td-footer-content{
 	padding: 10px;
@@ -178,7 +173,7 @@ col-xs-2{
 	display: block;
 	list-style-type: none;
     margin: 0;
-    pdisplay: inline;
+    display: inline;
 	
 	
 }
@@ -198,9 +193,7 @@ col-xs-2{
 
 
 
-.height-full{
-    height: 100%;
-}
+
 
 .height-half{
     height: 50%;
