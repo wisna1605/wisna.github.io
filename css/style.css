@@ -107,7 +107,6 @@ col-xs-2{
     font-size: 15pt;
 	padding:3px;
 	display: block;
-	background-color:#c2c2a3;
 	margin-top:10;
 	font-weight: bold;
 }
@@ -149,13 +148,7 @@ col-xs-2{
     height: 250px
 }
 
-#td-footer-content{
-	padding: 10pt;
-    background-color:#f2f2f2;
-    color: black;
-	font-family:inherit;
-    text-decoration: none;
-	
+
 }
 .img-testy{
 	height:350;
@@ -181,9 +174,6 @@ col-xs-2{
 .image-content{
     width: 320px;
     height: 200px;
-}
-#td-footer{
-	background-color: #f2f2f2;
 }
 
 
