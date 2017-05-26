@@ -176,8 +176,23 @@ col-xs-2{
     height: 200px;
 }
 
+#td-footer-content{
+	text-align: center;
+	background-color:gold;
+	font-family:serif;
+	color:black;
+    font-size: 15pt;
+	padding:5px;
+    font-weight: bold;
+	
+}
 
 
+#copy-right{
+	font-size: 10pt;
+	text-align: center;
+	color: darkblue;
+}
 
 
 
@@ -229,7 +244,4 @@ col-xs-2{
 
 
 
-.image-content{
-    width: 320px;
-    height: 200px;
-}
+
