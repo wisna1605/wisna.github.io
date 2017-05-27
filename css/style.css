@@ -98,7 +98,7 @@ col-xs-2{
 .div-content-index1{
 	font-family: sans-serif;
 	color:#666666;
-    font-size: 13pt;
+    font-size: 12pt;
 }
 
 .div-content-judul{
@@ -115,9 +115,8 @@ col-xs-2{
 .div-content-judul1{
 	font-family:serif;
 	color:black;
-    font-size: 18pt;
-	padding:3px;
-	display: block;
+    font-size: 20pt;
+	padding:2px;
 	font-weight: bold;
 }
 	
@@ -149,17 +148,14 @@ col-xs-2{
 }
 
 
-}
 .img-testy{
-	height:350;
-	width:300;
-	margin-top:auto;
-	padding-top: 10;
+	width:250px;
+	height:330px;
+    margin-top: 30;
+	
 }
-#img-testimony{
-	height:200px;
-	width:1050px;
-}
+
+
 
 #img-index{
 	text-decoration: none;
@@ -178,11 +174,11 @@ col-xs-2{
 
 #td-footer-content{
 	text-align: center;
-	background-color:gold;
+	background-color:goldenrod;
 	font-family:serif;
 	color:black;
-    font-size: 15pt;
-	padding:5px;
+    font-size: 13pt;
+	padding:4px;
     font-weight: bold;
 	
 }
